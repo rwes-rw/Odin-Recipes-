@@ -1,1 +1,2 @@
 # Odin-Recipes-
+This project will test my newly aquired html skills as a student developer currently studying with the Odin project. Types of skills such as creating a simple website using text, images, and links. I will be using VS Code to code this simple website. 
